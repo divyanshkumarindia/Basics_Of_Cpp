@@ -64,7 +64,7 @@ int main(){
 
     // dsa all the required data structure
 
-    // int-4bytes -10^9 to 10^9 | long-8 -10^12 | long long-8 -10^18 | float-4 | double-8
+    // int-4bytes -10^9 to 10^9 | long-8 -10^12 to 10^12 | long long-8 -10^18 to 10^18 | float-4 | double-8
     // string and getline
     // char-1
 
